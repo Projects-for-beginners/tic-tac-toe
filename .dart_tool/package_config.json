@@ -134,13 +134,13 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "tic_tac_toe_mobile",
+      "name": "tic_tac_toe",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2021-06-12T18:17:17.915656Z",
+  "generated": "2021-06-12T22:02:43.216222Z",
   "generator": "pub",
   "generatorVersion": "2.12.0"
 }
